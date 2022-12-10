@@ -1,7 +1,7 @@
 # <img src='belts.jpeg' height='50'></a> Teach Me Grappling Analytics
 This project scrapes all videos and their information (title, upload date, view count) from the Youtube channel ["Teach Me Grappling"](https://www.youtube.com/channel/UC8X1oaFtxTGGAueI-sWE4Mg), although this project can easily be replicated for any Youtube channel simply by changing the 'url' variable within the 'scraper.py' file in this repo. The sequence runs as follows: 1. 'scraper.py' scrapes info from the channel's video page 2. the info is stored in 'teach_me.csv' 3. 'csv_df.py' reads the csv file into a pandas dataframe where data manipulation and analysis is performed 4. finally the end data is visualized in 'barplot.png'
 
-Note that in order for selenium to operate on your machine you must also have a browser driver installed and in your working directory
+Note that in order for selenium to operate on your machine you must also have a browser driver installed and in your working directory.
 
 ## How It's Made:
 
