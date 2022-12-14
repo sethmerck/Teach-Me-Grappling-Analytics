@@ -13,6 +13,6 @@ After this, I used Python's csv library to write each video and its accompanying
 
 Next I used Pandas to convert the values in the 'views' columns from strings to numerical data types. Firstly though, the 'K' and 'M' values (representing 1000 and 1000000 respectively) had to be removed from the strings in order for them to be converted to numerical data types. These were removed conditionally using a stand alone function within pandas "apply" method. After cleaning the dataset I used Matplotlib to create a simple visualization of the median and mean view counts for all videos on this channel.
 
-## Future Expansions
+## Future Improvements
 
 In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. I'll start with just this channel, but eventually incorporate several other grappling youtube channels.
