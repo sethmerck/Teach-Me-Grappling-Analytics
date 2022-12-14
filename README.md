@@ -15,4 +15,4 @@ Next I used Pandas to convert the values in the 'views' columns from strings to 
 
 ## Future Improvements
 
-In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. I'll start with just this channel, but eventually incorporate several other grappling youtube channels.
+In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. I'll start with just this channel, but eventually incorporate several other grappling youtube channels. These channels have provided me with so much valuable information and guidance in learning jiujitsu, I'd like the chance to be a part of their success as well.
