@@ -19,7 +19,7 @@ Next I used Pandas to convert the values in the 'views' columns from strings to 
 
 ## Results
 
-I found that videos with 'escape' in title had a higher median view count.
+I found that videos with 'escape' in title had a much higher median view count than the channel's overall median view count. This makes sense to me as the typical subscriber to many jiujitsu instructional YouTube channels may be a practioner who has only recently begun training jiujitsu and thus would be more inclined to watch more defensively focused videos.  
 
 ## Future Improvements
 
