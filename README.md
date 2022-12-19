@@ -17,6 +17,10 @@ After this, I used Python's csv library to write each video and its accompanying
 
 Next I used Pandas to convert the values in the 'views' columns from strings to numerical data types. Firstly though, the 'K' and 'M' values (representing 1000 and 1000000 respectively) had to be removed from the strings in order for them to be converted to numerical data types. These were removed conditionally using a stand alone function within pandas's "apply" method. After cleaning the dataset I separated videos into 3 categories: (1. videos with the word "escape" in the title, 2. videos withou, 3. and all videos) using the groupby function in pandas. Obtained the median values of each category, and plotted them in a bar plot using Matplotlib. 
 
+**Results**
+
+I found that videos with 'escape' in title had a higher median view count.
+
 ## Future Improvements
 
 In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. I'll start with just this channel, but eventually incorporate several other grappling youtube channels. These channels have provided me with so much valuable information and guidance in learning jiujitsu, I'd like the chance to be a part of their success as well.
