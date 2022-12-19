@@ -7,7 +7,7 @@ The sequence of operation runs as follows: 1. 'scraper.py' scrapes info from the
 
 Note that in order for selenium to operate on your machine you must also have a browser driver installed and in your working directory.
 
-## How It's Made:
+## How It's Made
 
 **Tech used:** Python, Selenium, Pandas, Matplotlib
 
