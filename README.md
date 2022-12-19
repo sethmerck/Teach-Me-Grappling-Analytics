@@ -3,7 +3,7 @@ This project scrapes all videos and their information (title, upload date, view 
 
 This project can easily be replicated for any Youtube channel simply by changing the 'url' variable within the 'scraper.py' file in this repo, as well as inserting your own conditions for grouping/categorizing a channel's videos for analysis. 
 
-The sequence of operation runs as follows: 1. 'scraper.py' scrapes info from the channel's video page 2. the info is stored in 'teach_me.csv' 3. 'csv_df.py' reads the csv file into a pandas dataframe where data manipulation and analysis is performed 4. finally the end data is visualized in a barplot 'barplot_zzzz.png'
+The sequence of operation runs as follows: 1. 'scraper.py' scrapes info from the channel's video page 2. the info is stored in 'teach_me.csv' 3. 'csv_df.py' reads the csv file into a pandas dataframe where data manipulation and analysis is performed 4. finally the end data is visualized in a barplot 'barplot_zzzz.png'.
 
 Note that in order for selenium to operate on your machine you must also have a browser driver installed and in your working directory.
 
