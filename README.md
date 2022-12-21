@@ -27,4 +27,4 @@ I found that videos with 'escape' in title had a much higher median view count t
 
 ## Future Improvements
 
-In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels. These channels have provided me with so much valuable information and guidance in learning jiujitsu, I'd like the chance to be a part of their success as well.
+In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance or quantile ranges into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels. These channels have provided me with so much valuable information and guidance in learning jiujitsu, I'd like the chance to be a part of their success as well.
