@@ -19,11 +19,13 @@ Next I used Pandas to convert the values in the 'views' columns from strings to 
 
 ## Results
 
-All of these result can be viewed in the 'bar_plot_zzzzz.png' files containing the bar plots.
+All of these result can be viewed in the 'bar_plot_zzzzz.png' files containing the various bar plots.
 
 At the time of scraping Teach Me Grappling's channel, he had uploaded a total of 1358 videos. 85 of the videos mentioned the word 'escape', 1273 did not mention it.
 
-I found that videos with 'escape' in title had a much higher median view count than the channel's overall median view count. This makes sense to me as the typical subscriber to many jiujitsu instructional YouTube channels may be a practioner who has only recently begun training jiujitsu and thus would be more inclined to watch more defensively focused videos.  
+I found that videos with 'escape' in title had a much higher mean and median view count than the channel's overall mean and median view count. This makes sense to me as the typical subscriber to many jiujitsu instructional YouTube channels may be a practioner who has only recently begun training jiujitsu and thus would be more inclined to watch more defensively focused videos.  
+
+Mean view counts were much higher than median view counts of the same video category ('escape' vs. no 'escape'). This is likely because a few very successful videos with significantly higher view counts act as outliers and pull the mean value up while they do no affect the median value as much. 
 
 ## Future Improvements
 
