@@ -30,3 +30,7 @@ Mean view counts were much higher than median view counts of the same video cate
 ## Future Improvements
 
 In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance or quantile ranges into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels. These channels have provided me with so much valuable information and guidance in learning jiujitsu, I'd like the chance to be a part of their success as well.
+
+**Auto_Update**
+
+I also would like to link to something like a Google Sheet instead of a csv and use a platform such as Heroku to routinely run the scraping script to update the google sheet. The Google Sheet then gets routinely read to update the figures automatically.  
