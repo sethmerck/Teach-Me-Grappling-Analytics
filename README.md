@@ -25,7 +25,7 @@ At the time of scraping Teach Me Grappling's channel, he had uploaded a total of
 
 I found that videos with 'escape' in title had a much higher mean and median view count than the channel's overall mean and median view count. This makes sense to me as the typical subscriber to many jiujitsu instructional YouTube channels may be a practioner who has only recently begun training jiujitsu and thus would be more inclined to watch more defensively focused videos.  
 
-Mean view counts were much higher than median view counts of the same video category ('escape' vs. no 'escape'). This is likely because a few very successful videos with significantly higher view counts act as outliers and pull the mean value up while they do no affect the median value as much. 
+Mean view counts were much higher than median view counts of the same video category ('escape' vs. no 'escape'). This is likely because a few very successful videos with significantly higher view counts act as outliers and pull the mean value up while they do not affect the median value as much. 
 
 ## Future Improvements
 
