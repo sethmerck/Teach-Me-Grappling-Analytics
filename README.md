@@ -29,7 +29,7 @@ Mean view counts were much higher than median view counts of the same video cate
 
 ## Future Improvements
 
-In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels to get a larger sample size for data analysis.
+In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels to get a larger sample size for data analysis. For ease of access to data once I've scraped information from multiple channels I will also store data as tables in a MySQL database. 
 
 **Auto_Update**
 
