@@ -27,9 +27,9 @@ I found that videos with 'escape' in title had a much higher mean and median vie
 
 Mean view counts were much higher than median view counts of the same video category ('escape' vs. no 'escape'). This is likely because a few very successful videos with significantly higher view counts act as outliers and pull the mean value up while they do not affect the median value as much. 
 
-## Future Improvements
+## Optimizations
 
-In the near future, I'll separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels to get a larger sample size for data analysis. For ease of access to data once I've scraped information from multiple channels I will also store data as tables in a MySQL database. 
+Separate videos into different categories based on technique to see which techniques get more relative amounts of views. Also adding in values such as variance into the figures to show how the data is distributed. I'll start with just this channel, but eventually incorporate several other grappling youtube channels to get a larger sample size for data analysis. For ease of access to data once I've scraped information from multiple channels I will also store data as tables in a MySQL database.
 
 **Auto_Update**
 
