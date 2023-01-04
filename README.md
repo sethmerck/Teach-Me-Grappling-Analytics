@@ -5,7 +5,7 @@ This project can easily be replicated for any Youtube channel simply by changing
 
 The sequence of operation runs as follows: 1. 'scraper.py' scrapes info from the channel's video page 2. the info is stored in 'teach_me.csv' 3. 'csv_df.py' reads the csv file into a pandas dataframe where data manipulation and analysis is performed 4. finally the end data is visualized in a barplot 'barplot_zzzz.png'.
 
-An optional step if scraping data from multiple channels would be to compile the csv files into a SQL database. Each channel's corresponding csv file would represent one table in the SQL database. The 'csv_to_sql.py' file in this repo does this function, writing a csv file into a MySQL database.
+An optional step if scraping data from multiple channels would be to compile the csv files into a SQL database. Each channel's corresponding csv file would represent one table in the SQL database. The 'csv_to_sql.py' file in this repo does this function, writing a csv file into a MySQL database. Later use tables to perform more complex statistical analysis.
 
 Note that in order for selenium to operate on your machine you must also have a browser driver installed and in your working directory.
 
