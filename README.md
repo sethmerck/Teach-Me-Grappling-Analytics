@@ -11,7 +11,7 @@ Note that in order for selenium to operate on your machine you must also have a 
 
 ## How It's Made
 
-**Tech used:** Python, Selenium, Pandas, Matplotlib
+**Tech used:** Python, Selenium, Pandas, Matplotlib, MySQL
 
 Used Python's Selenium library to first scroll to the bottom of the channel's page in order to load every video. Then extract links, titles, published date, and view count for every video. 
 
