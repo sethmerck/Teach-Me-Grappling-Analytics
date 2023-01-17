@@ -51,4 +51,4 @@ plt.ylabel('Median Views')
 plt.title('Bar Graph') 
   
 # function to show the plot 
-plt.show()
+plt.savefig('tables.png')
