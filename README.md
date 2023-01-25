@@ -1,6 +1,5 @@
 # <img src='belts.jpeg' height='50'></a> Teach Me Grappling Analytics
-This project scrapes all videos and some of their information (title, upload date, view count) from the Youtube channel ["Teach Me Grappling"](https://www.youtube.com/channel/UC8X1oaFtxTGGAueI-sWE4Mg) and analyzes if there are factors within the title (i.e. specific buzzwords or terms being mentioned w/n the title) that affect the view count for that video. 
-
+This project scrapes all videos and some of their information (title, upload date, view count) several YouTube channels and analyzes if there are factors within the title (i.e. specific buzzwords or terms being mentioned w/n the title) that affect the view counts of videos.
 This project can easily be replicated for any Youtube channel by changing the 'url' variable within the 'scraper.py' file in this repo, as well as inserting your own conditions for grouping/categorizing a channel's videos for analysis. 
 
 The sequence of operation runs as follows: 1. 'scraper.py' scrapes info from the channel's video page 2. the info is stored in 'teach_me.csv' 3. 'csv_df.py' reads the csv file into a pandas dataframe where data manipulation and analysis is performed 4. finally the end data is visualized in a barplot 'barplot_zzzz.png'.
