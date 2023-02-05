@@ -34,4 +34,4 @@ Separate videos into different categories based on technique to see which techni
 
 **Auto_Update**
 
-I also would like to link to something like a Google Sheet instead of a csv and use a platform such as Heroku to routinely run the scraping script to update the google sheet. The Google Sheet then gets routinely read to update the figures automatically.  
+I also would like to link to something like a Google Sheet instead of a csv and use a platform such as Heroku to routinely run the scraping script to update the google sheet. The Google Sheet then is routinely read to update the figures automatically.  
