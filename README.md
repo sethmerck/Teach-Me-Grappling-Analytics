@@ -12,7 +12,7 @@ Note that in order for selenium to operate on your machine you must also have a 
 
 **Tech used:** Python, Selenium, Pandas, Matplotlib, MySQL
 
-Used Python's Selenium library to first scroll to the bottom of the channel's page in order to load every video. Then extract links, titles, published date, and view count for every video. 
+Used Python's Selenium library to auto-scroll to the bottom of the channel's page in order to load every video. Then extract links, titles, published date, and view count for every video. 
 
 After this, I used Python's csv library to write all this information into csv files. Each video and its accompanying information being represented as one row within a csv file.
 
